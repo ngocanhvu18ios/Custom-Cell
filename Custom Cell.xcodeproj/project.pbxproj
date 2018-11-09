@@ -12,6 +12,7 @@
 		84C1D39921954664002BA27F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C1D39721954664002BA27F /* Main.storyboard */; };
 		84C1D39B21954666002BA27F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84C1D39A21954666002BA27F /* Assets.xcassets */; };
 		84C1D39E21954666002BA27F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C1D39C21954666002BA27F /* LaunchScreen.storyboard */; };
+		84C1D3A821954B28002BA27F /* StoriesTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C1D3A721954B28002BA27F /* StoriesTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		84C1D39A21954666002BA27F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84C1D39D21954666002BA27F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84C1D39F21954666002BA27F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C1D3A721954B28002BA27F /* StoriesTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StoriesTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				84C1D39321954664002BA27F /* AppDelegate.swift */,
 				84C1D39521954664002BA27F /* ViewController.swift */,
 				84C1D39721954664002BA27F /* Main.storyboard */,
+				84C1D3A721954B28002BA27F /* StoriesTableViewController.swift */,
 				84C1D39A21954666002BA27F /* Assets.xcassets */,
 				84C1D39C21954666002BA27F /* LaunchScreen.storyboard */,
 				84C1D39F21954666002BA27F /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84C1D3A821954B28002BA27F /* StoriesTableViewController.swift in Sources */,
 				84C1D39621954664002BA27F /* ViewController.swift in Sources */,
 				84C1D39421954664002BA27F /* AppDelegate.swift in Sources */,
 			);
